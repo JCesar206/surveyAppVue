@@ -1,5 +1,5 @@
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+# Poll App built with Vue + Tailwind
+This app allows you to vote on different categories and view the votes received.<br>
+You can reset the selected option.<br>
+Improvements to be made: Charts showing the results, choice of topic.<br>
+# Thanks for reading. :octocat:
