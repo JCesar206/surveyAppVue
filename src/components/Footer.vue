@@ -4,16 +4,16 @@ import {Github, Linkedin, Mail, HomeIcon} from "lucide-vue-next";
 <template>
 	<footer class="w-full bg-gray-900 text-white py-4 fixed bottom-0 left-0 flex justify-around">
 		<div class="flex gap-6">
-			<a href="https://jcesar206.github.io/myPersonalBlog/" target="_blank" class="hover:text-blue-500">
+			<a href="https://jcesar206.github.io/myPersonalBlog/" target="_blank" class="hover:text-pink-500">
 				<HomeIcon class="w-6 h-6" />
 			</a>
-			<a href="" target="_blank" class="hover:text-blue-500">
+			<a href="" target="_blank" class="hover:text-purple-500">
 				<Github class="w-6 h-6" />
 			</a>
-			<a href="" target="_blank" class="hover:text-blue-500">
+			<a href="" target="_blank" class="hover:text-pink-500">
 				<Linkedin class="w-6 h-6" />
 			</a>
-			<a href="mailto:jcesar206@hotmail.com" class="hover:text-blue-500">
+			<a href="mailto:jcesar206@hotmail.com" class="hover:text-purple-500">
 				<Mail class="w-6 h-6" />
 			</a>
 		</div>
